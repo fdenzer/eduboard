@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FH Worms message client</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="send">Send</string>
+    <string name="refresh">Refresh list</string>
+    <string name="write">Write message</string>
+    <string name="search">search user</string>
+
+</resources>
